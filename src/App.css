@@ -1,13 +1,13 @@
 header {
     text-align: center;
-    background-color: black;
-    color: blanchedalmond;
+    background-color: rgb(228, 24, 24);
+    color: rgb(221, 204, 178);
   }
   
   h1 {
     margin: 0;
     padding: 40px 20px;
-    color: black;
+    color: rgb(228, 17, 17);
   }
   
   h1 a {
@@ -28,7 +28,7 @@ header {
   }
   
   a {
-    color:blanchedalmond;
+    color:rgb(179, 160, 133);
   }
   
   a:link {
@@ -45,8 +45,8 @@ header {
   }
   
   .header {
-    background-color: black;
-    color: blanchedalmond;
+    background-color: rgb(58, 24, 24);
+    color: rgb(206, 139, 39);
 
 }
 /* add folder page styles */
@@ -54,11 +54,11 @@ header {
 .add-folder {
     display: flex;
     justify-content: center;
-    margin-top: 50px;
+    margin-top: 75px;
   }
   
   .folder-add-form {
-    background-color: greenyellow;
+    background-color: rgb(47, 102, 255);
     border-radius: 10px;
     padding: 50px;
     font-size: 30px;
@@ -95,7 +95,7 @@ header {
   }
   
   .note-add-form {
-    background-color:greenyellow;
+    background-color:rgb(92, 108, 255);
     border-radius: 10px;
     padding: 50px;
     font-size: 30px;
@@ -128,7 +128,7 @@ header {
   /* sidebar stylings */
   
   .selected {
-    background-color: grey !important;
+    background-color: grey 
   }
   
   .side-bar {
